@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Selectors 02</title>
+    <link rel="stylesheet" href="m.css">
+</head>
+<body>
+    <ul>
+        <li>Christmas</li>
+        <li>Jalapenos</li>
+        <li>Talapia</li>
+        <li>Sangria</li>
+        <li>Pasadina</li>
+        <li>Thanksgiving</li>
+        <li>Marc Anthony</li>
+        <li>Fifa</li>
+        <li>Ninetendo</li>
+        <li>Makkartt</li>
+    </ul>
+
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus expedita ipsa excepturi quae nihil voluptatem inventore dolor voluptatum repudiandae quam, dicta unde distinctio culpa placeat blanditiis facere error modi! Repellat.</p>
+    </div>
+
+    <ul>
+        <li>Jupiter</li>
+        <li>Aristotl</li>
+        <li>Frame</li>
+        <li>Pamela Anderson</li>
+        <li>Friday</li>
+        <li>Skying</li>
+        <li>Chicken Wings</li>
+        <li>Tapatio</li>
+        <li>Diamonds</li>
+        <li>Beauty Care</li>
+    </ul>
+</body>
+</html>

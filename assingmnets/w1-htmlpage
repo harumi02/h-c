@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" 
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* rule set*/
+        /*selector is the h1*/
+        /*declaration block is everything {}*/
+        /*Every decalration has a property adn a value*/
+        h1 {
+            color: coral;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>HELLO WORLD</h1>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, deserunt! Consectetur corrupti repellendus, commodi, necessitatibus at possimus mollitia error modi nobis ducimus quod dolor neque ut iure atque velit rem.</p>
+
+    <ul>
+        <li>My list</li>
+        <li>Orange</li>
+        <li>Dragon Fruit</li>
+        <li>Strawberries</li>
+        <li>Mangos</li>
+        <li>Pears</li>
+        <li>Pineapple</li>
+        <li>kiwii</li>
+        <li>Honeydew</li>
+        <li>Watermelon</li>
+    </ul>
+
+</body>
+</html>
+ 

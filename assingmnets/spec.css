@@ -1,0 +1,79 @@
+body{
+    font-size: 36px;
+    text-align: center;
+    padding-top: 36px;
+}
+/*specicifty of 1*/
+h1{
+    width: 36px;
+    height:auto;
+    border: 1px dashed darkblue;
+    color: cadetblue;
+}
+/*Specicifty of 2, but it has its own set of rules as well which alllows them all to share the same specificty and change different things  */
+div p{
+    width: auto;
+    height: auto;
+    border: 1px dashed brown;
+    color: chocolate;
+}
+/*specicifty of 2*/
+div > p{
+    width: auto;
+    height: auto;
+    border: 1px dashed red;
+    color: crimson;
+}
+/*Specificity of 2*/
+div ~ p{
+    width: auto;
+    height: auto;
+    border: 1px dashed deeppink;
+    color:magenta;
+}
+/*specificty of 2 */
+div + p{
+    width: auto;
+    height: auto;
+    border: 1px dashed purple;
+    color: darkviolet;
+}
+/*speciciity of 100*/
+#p{
+    width: auto;
+    height: auto;
+    border: 1px dahsed orangered;
+    color: darkorange;
+}
+/*specicifty of 2*/
+li:nth-child(2){
+    height: auto;
+    width: auto;
+    border: 1px yellow;
+    color: gold;
+}
+/* specicifty of 10*/
+.lore{
+    height: auto;
+    width: auto;
+    border: 1px dashed green;
+    color:greenyellow ;
+}
+/*Specificty of 2*/
+p:only-child{
+    height: auto;
+    width: auto;
+    border: 1px dashed olivedrab;
+    color:mediumseagreen;
+}
+/*specificty of 2*/
+p::first-letter{
+    height: auto;
+    width: auto;
+    border: 1px dashed gray;
+    color: black;
+}
+
+
+
+

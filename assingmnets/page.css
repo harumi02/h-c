@@ -1,0 +1,17 @@
+body{
+    font-size: 36px;
+    text-align: right;
+    border: 10px goldenrod;
+}
+a:link{
+    color: darkcyan;
+a:visited{
+    color: darkturquoise;
+}
+a:hover{
+    color: lawngreen;
+}
+}
+a:active{
+    color: cyan;
+}

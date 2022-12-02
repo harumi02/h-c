@@ -1,0 +1,17 @@
+body{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+p{
+    margin: 20px;
+}
+p::first-letter{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 34px;
+    line-height: .5;
+}
+p::first-line{
+    color: mediumslateblue;
+    font-weight: 900;
+}

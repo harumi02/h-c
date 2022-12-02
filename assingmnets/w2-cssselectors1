@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1 device-width, initial-scale=1.0">
+    <title>CSS Selectors 01</title>
+    <link rel="stylesheet" href="page.css">
+</head>
+<body>
+    <p><a>https://www.nytimes.com/</a></p>
+    <p><a>https://www.dictionary.com/</a></p>
+    <p><a>https://www.history.com/</a></p>
+</body>  
+</html>

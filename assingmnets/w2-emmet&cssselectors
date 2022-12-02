@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1 device-width, initial-scale=1.0">
+    <title>Emmet and CSS Selectors</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <h1>Menu</h1>
+    <ul id="menuthings">
+        <li>Peach</li>
+        <li>Grapefruit</li>
+        <li>Papaya</li>
+        <li>Grapes</li>
+        <li>Carambola</li>
+    </ul>
+    <div>
+      <section>Please Buy From Us</section>
+      <p id="p1">Here are some of the things that you can find on our website</p>
+      <ul class="random">
+         <li>Car</li>
+         <li>Ultrasound</li>
+         <li>manicure</li>
+         <li>Pancakes</li>
+         <li>Socks</li>
+         <li>Phone</li>
+         <li>Nails</li>
+         <li>makeup</li>
+         <li>Dog</li>
+         <li>Creme Brulee</li>
+         <li>Chocolat</li>
+         <li>Tiramisu</li>
+         <li>WhiteChoclate Perpermint Mocha</li>
+         <li>Slay</li>
+         <li>HOTD</li>
+      </ul>
+    </div>
+    <div>
+        <h2 >General Understadnings</h2>
+        <p id="p2">These are some of the things of my gerenal understanding</p>
+        <ul class="list">
+            <li>Space</li>
+            <li>Astrology</li>
+            <li>Doing Nails</li>
+            <li>Lashes</li>
+            <li>Skin Care</li>
+            <li>Reading</li>
+            <li>Maladaptive DayDreaming</li>
+            <li>Twilight</li>
+            <li>Candle Readings</li>
+            <li>Collecatbles</li>
+            <li>Drawing</li>
+            <li>Papaya</li>
+            <li>Fanfiction</li>
+            <li>Moon</li>
+            <li>Satin</li>
+            <li>Color Cordination</li>
+            <li>Anime</li>
+            <li>Music</li>
+            <li>Candles</li>
+            <li>Knitting</li>
+            <li>Crocheting</li>
+            <li>Bad TV</li>
+            <li>BBLs</li>
+            <li>Drag Queens</li>
+            <li>Stuffed Animlas at a older age</li>
+            <li>Scented Beads</li>
+            <li>Ships</li>
+            <li>HOTD</li>
+            <li>Motorcycles</li>
+            <li>Hair Care</li>
+            <li>Shopping</li>
+            <li>Suergey</li>
+            <li>Law</li>
+            <li>Workers Rights</li>
+            <li>Traditions</li>
+            <li>Pretty Lights</li>
+            <li>Folklore</li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <div>
+    <h3 >A Not So General Uderstanding of Things I Dont Understand</h3>
+    <p id="p3">These are some of the thingsI dont underatdn and wonder how they came to be</p>
+    <ul class="list">
+        <li>Tuna in a Can</li>
+        <li>The color Chartrues</li>
+        <li>Bronnies</li>
+        <li>Quintin Tarintino Movies</li>
+        <li>Cursive</li>
+        <li>Botox</li>
+        <li>Sharpeners</li>
+        <li>Billionaires</li>
+        <li>NFTs</li>
+        <li>Golf</li>
+        <li>The Ocean</li>
+        <li>How Religion Started</li>
+        <li>Asthma</li>
+        <li>Eggs</li>
+        <li>Mummies</li>
+        <li>Meauseums</li>
+        <li>Crust of the Earth</li>
+        <li>FDA</li>
+        <li>Organs</li>
+        <li>Body Functions</li>
+        <li>MRIs</li>
+        <li>Hair</li>
+        <li>Eyelashes that get in your eye and then get lost</li>
+        <li>Trains</li>
+        <li>Pixels</li>
+        <li>Ears</li>
+        <li>Thread</li>
+        <li>Glasses</li>
+        <li>Power</li>
+        <li>Wifi</li>
+        <li>Ink</li>
+        <li>Tattoo Machines</li>
+        <li>Paint</li>
+        <li>Opened Toed Shoes</li>
+        <li>FireWorks</li>
+        <li>Phones</li>
+        <li>Chess</li>
+        <li>Water Parks</li>
+        <li>Air Particals</li>
+        <li>Air Fresheners</li>
+        <li>Solar Panels</li>
+        <li>Paper</li>
+        <li>Clippers</li>
+        <li>Cement</li>
+        <li>Washing Machines</li>
+        <li>Hair Straightener</li>
+        <li>Curlers</li>
+        <li>Perms</li>
+        <li>Headphones</li>
+        <li>Pickles</li>
+    </ul>
+    </div>
+</body>
+</html>

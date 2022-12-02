@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Specificity</title>
+    <link rel="stylesheet" href="spec.css">
+</head>
+<body>
+
+<p class="lore">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque nulla ratione eum voluptates magnam vel accusamus tenetur, eligendi rerum nemo id cupiditate iure harum voluptas, fuga esse totam aspernatur. Unde?</p>
+<p class="last">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio inventore nobis quidem doloribus repellat dolorum, hic et facere sunt perferendis quo esse molestiae dolor, odio sequi nesciunt id architecto dicta?</p>
+<p class="lore">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia atque nihil quasi, quas aliquid beatae dolore recusandae perferendis enim, repellat perspiciatis animi temporibus vitae provident porro minus, ipsam sequi quis!</p>
+<img src="">
+<div>
+    <p>4146</p>
+    <p>12278</p>
+    <p>1873</p>
+    <p>13487</p>
+    <p>5589</p>
+    <ul>
+        <p>Lorem, ipsum dolor.</p>
+        <li>9246</li>
+        <li>7647</li>
+        <li>53338</li>
+        <li>45429</li>
+        <li>23510</li>
+        <p>Lorem ipsum dolor sit.</p>
+    </ul>
+    <p>1871</p>
+    <p>1542</p>
+</div>
+<p>40</p>
+<p>24</p>
+<p>36</p>
+<h1>CSS Specificity</h1>
+<div id="p">
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem minus consectetur vero maiores assumenda, ipsum autem. Non quidem dolor, a neque beatae est hic. Eaque reiciendis incidunt rem eveniet alias.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, modi quae quis, iure eos est culpa ipsum nulla temporibus provident recusandae! Libero ratione repudiandae odio, dicta voluptatum modi consequatur aspernatur.</p>
+
+</div>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere incidunt iure ipsa veritatis illum id sit a cum! Totam nihil fugit laborum illo vel rerum eveniet nesciunt officiis tempora cumque.</p>
+
+</body>
+</html>
