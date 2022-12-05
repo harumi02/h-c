@@ -1,0 +1,23 @@
+div{
+    width: 160px;
+    height: 160px;
+    border-radius:  50% ;
+    padding: 20px;
+    border: 1px dashed cornflowerblue;
+    background-color: darkorange;
+    margin: 10px;
+    display: block;
+    box-sizing: border-box;
+
+}
+span{
+    width: 160px;
+    height: 160px;
+    border-radius:  50% ;
+    padding: 20px;
+    border: 1px dashed green;
+    background-color: orange;
+    margin: 10px;
+    display: inline;
+    box-sizing: border-box;
+}

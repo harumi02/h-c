@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>18 FLexboxes</title>
+    <link rel="stylesheet" href="18.css">
+</head>
+<body>
+    <div class="row">001</div>
+    <div class="row">002</div>
+    <div class="row">003</div>
+    <div class="row">004</div>
+    <div class="row">005</div>
+    <div class="row">006</div>
+    <div class="row">007</div>
+    <div class="row">008</div>
+    <div class="row">009</div>
+    
+</body>
+</html>

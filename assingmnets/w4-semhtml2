@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic HTML 2</title>
+</head>
+<body>
+    <header>
+        <h1>Hello</h1>
+        <p>logo</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a>https://www.nytimes.com/</a></li>
+            <li><a>https://www.dictionary.com/</a></li>
+            <li><a>https://www.history.com/</a></li>
+        </ul>
+    </nav>
+    <article>
+        <header>
+            <h2>Second Headthing</h2>
+        </header>
+        <section>
+            <h3>Number of The Head Things</h4>
+            <p>Lorem, ipsum dolor.</p>
+
+            <h3>Number of The HeadTHings</h5>
+            <p>Lorem ipsum dolor sit amet.</p>
+        </section>
+        <section>
+            <h4>Again A Number 4 Headthing</h4>
+            <p>Lorem ipsum dolor sit.</p>
+            <p>Lorem ipsum dolor sit.</p>
+        </section>
+        <footer>
+            <h5>A Haedthing</h5>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+        </footer>
+    </article>
+    <aside>
+        <h2>Another Headthing</h2>
+        <p>Lorem ipsum dolor sit amet.</p>
+    </aside>
+    <footer>
+        <ul>
+            <li>soemthing</li>
+            <li>soemthing SOmething</li>
+        </ul>
+    </footer>
+
+    
+</body>
+</html>

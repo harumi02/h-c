@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>helloe</h1>
+    </header>
+    <nav>
+        <h1>Hello Hello</h2>
+    </nav>
+    <section>
+        <h1>Hello Hello Hello</h3>
+    </section>
+
+    <article>
+        <h1>Article 1</h4>
+    </article>
+
+    <aside>
+        <h1>Aside Aside ASide Aside Aside</h5>
+    </aside>
+    <footer>
+        <h6>Footer</h6>
+    </footer>
+
+</body>
+</html>

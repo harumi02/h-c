@@ -1,0 +1,20 @@
+html{
+    font-size: 2rem;
+}
+ul{
+    list-style-type: none; 
+}
+li{
+    border: 2px groove orchid;
+    border-radius: 50px;
+    display: inline-block;
+}
+a{
+    padding: 10px;
+    border: 2px solid olivedrab;
+    display: inline-block;
+    text-decoration: none;
+}
+li:hover{
+    background-color: mediumseagreen;
+}

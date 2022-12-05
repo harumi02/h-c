@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font adn Text Exercises</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="s.css">
+</head>
+<body>
+    
+    <h1>New Font Put Into Place</h1>
+    <p id="first">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure, recusandae illo dolorum iusto explicabo et sunt? Nostrum quae beatae commodi porro repellendus iure, vitae cupiditate inventore culpa, unde, et labore!</p>
+    <p class="m">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita animi molestiae magnam, vitae rerum ipsa? Ea accusamus commodi fuga quas blanditiis perspiciatis, eligendi soluta doloremque sint qui pariatur accusantium deserunt.</p>
+    <p class="m">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, et. Hic quos quas eius dolor beatae ratione. Quae iure, tempore eveniet nostrum cumque fugiat, enim consequatur aperiam quasi corporis voluptatibus.</p>
+    <p class="space">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis necessitatibus dolores in, fuga mollitia deleniti cum neque perferendis excepturi, consequuntur quisquam tenetur fugit magnam tempore itaque corporis illum dolor saepe!</p>
+
+    <p><a>https://www.nytimes.com/</a></p>
+
+    <h2>SAme Font Different Weight Added</h2>
+    <p id="l">Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+    <p class="ore">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque est aspernatur cumque sapiente itaque inventore consequatur perspiciatis ipsum fugit exercitationem tenetur cupiditate, repudiandae tempore beatae ut sint accusamus eius qui.</p>
+    <p class="ore">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum veritatis dolores mollitia. Dolor, necessitatibus! Facere natus iure ea exercitationem velit adipisci rerum neque recusandae, ducimus et nihil nesciunt! Libero, mollitia.</p>
+    <p class="m">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam minus error consequuntur neque, nemo dicta in impedit! Dolor accusamus totam nostrum similique? Laboriosam voluptate facilis, omnis sequi consequatur aut? Quis.</p>
+    
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Margin 0 Auto</title>
+    <link rel="stylesheet" href="mar.css">
+</head>
+<body>
+    <img src="../assingmnets/R.jpg" alt="surfer dude">
+
+    <h1 id="first">Header 001</h1>
+    <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo minus quas eaque vitae sapiente sed pariatur tempora voluptatibus consequatur ut soluta, iure totam labore cumque odio dicta delectus facere ipsam?</P>
+    <P>Est ad obcaecati quae ratione nesciunt. Natus, ab illo ullam dolore quisquam voluptatem qui distinctio non eligendi cum nulla provident sit, incidunt, voluptas cumque recusandae esse fuga ducimus. Voluptatum, voluptates.</P>
+    <P>At accusantium consequatur necessitatibus totam magni mollitia illo tempora autem facere repellat magnam repellendus, amet rem vitae itaque dignissimos, voluptatum molestias, soluta perspiciatis beatae obcaecati. Fugit magni quisquam fugiat consequatur.</P>
+    
+    <h2 id="second">Header 002</h2>
+    <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo minus quas eaque vitae sapiente sed pariatur tempora voluptatibus consequatur ut soluta, iure totam labore cumque odio dicta delectus facere ipsam?</P>
+    <P>Est ad obcaecati quae ratione nesciunt. Natus, ab illo ullam dolore quisquam voluptatem qui distinctio non eligendi cum nulla provident sit, incidunt, voluptas cumque recusandae esse fuga ducimus. Voluptatum, voluptates.</P>
+    <P>At accusantium consequatur necessitatibus totam magni mollitia illo tempora autem facere repellat magnam repellendus, amet rem vitae itaque dignissimos, voluptatum molestias, soluta perspiciatis beatae obcaecati. Fugit magni quisquam fugiat consequatur.</P>
+    
+</body>
+</html>
