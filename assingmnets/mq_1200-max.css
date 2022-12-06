@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    flex-flow: row nowrap;
+    height: 775px;
+    border: 1px dashed red;
+}
+#one{
+    flex-flow: wrap;
+    flex-direction: row;
+    width: 100px;
+    background-color: red;
+}
+.two{
+    flex-flow: wrap;
+    flex-direction: row;
+    width: 100px;
+    background-color:skyblue;  
+}
+.three{
+    flex-flow: wrap;
+    flex-direction: row;
+    width: 100px;
+    background-color: lightgreen;
+}
+.four{
+    flex-flow: wrap;
+    flex-direction: row;
+    width: 100px;
+    background-color: yellow;
+}
+.five{
+    flex-flow: wrap;
+    flex-direction: row;
+    width: 100px;
+    background-color: purple;
+}

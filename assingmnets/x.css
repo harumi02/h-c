@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    flex-flow: row wrap;
+    height: 200px;
+    border: 5px solid red;
+}
+
+.d{
+    flex-grow: 1;
+    width: 300px;
+    border: 1px solid darkblue;
+    background-color: darkblue;
+}
+.b{
+    flex-grow: 1;
+    width: 300px;
+    border: 1px solid blue;
+    background-color: blue;
+    
+}
+.sk{
+    flex-grow: 1;
+    width: 400px;
+    border: 1px solid skyblue;
+    background-color: skyblue;
+    
+}
+.lg{
+    flex-grow: 1;
+    width: 200px;
+    border: 1px solid lightsteelblue;
+    background-color: lightsteelblue;
+}

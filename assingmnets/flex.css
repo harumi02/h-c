@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-flow: column wrap;
+    border: 5px solid brown;
+}
+div{
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: 1px solid darkorange;
+    background-color: lightseagreen;
+    text-align: center;
+}

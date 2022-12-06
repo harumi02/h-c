@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: stretch;
+    height: 200px;
+    width: 300px;
+}
+
+.dark{
+    flex-grow: 1;
+    width: 300px;
+    border: 1px solid darkblue;
+    background-color: darkblue;
+    text-align: left;
+}
+.blue{
+    flex-grow: 1;
+    width: 200px;
+    border: 1px solid red;
+    background-color: blue;
+    text-align: left;
+    
+}
+.light{
+    flex-grow: 1;
+    width: 200px;
+    border: 1px solid red;
+    background-color: skyblue;
+    text-align: left;
+    
+}
