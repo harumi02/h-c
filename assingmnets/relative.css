@@ -1,0 +1,15 @@
+*{
+    border: 2px dashed crimson;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: lightskyblue;
+    color: #fff;
+}
+#move{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    background-color: palevioletred;
+}

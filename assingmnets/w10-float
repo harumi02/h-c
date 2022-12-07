@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FLOAT</title>
+    <link rel="stylesheet" href="float.css">
+</head>
+<body>
+    
+    <div>
+        <img id="right" src="../assingmnets/R.jpg" alt="surfer dude">
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti in eius temporibus veritatis, perspiciatis voluptatem minus modi fugiat fuga, culpa at cumque placeat maxime dolorum? Soluta, nemo dicta. Quas recusandae fugit reiciendis esse repellat eum et iure vel tempore, quo atque amet rem laudantium facilis magni maxime enim nostrum repellendus architecto, ad dolorum nemo blanditiis doloremque cum. Libero unde inventore, enim dolorem veritatis cupiditate perspiciatis vel natus perferendis incidunt accusamus error necessitatibus amet tenetur nesciunt. Iure reprehenderit amet distinctio deserunt asperiores illum cum quae, dolore tempore quam atque quaerat nam corrupti repudiandae exercitationem ut quisquam excepturi officia neque accusamus? Dolorem harum dignissimos, tenetur odit deserunt ipsa blanditiis eveniet voluptate fugit facilis? Voluptatum eius ex molestias atque! Eveniet repellendus beatae quod earum, consectetur quia impedit minima accusamus esse, ad, iste nihil veritatis sint? Ut quaerat dicta quod pariatur odit provident obcaecati enim laborum officia quas veniam ullam nisi repellat, eveniet placeat quasi voluptates voluptatibus molestias dolores voluptatum. Laboriosam eum error sint, corporis eligendi recusandae nesciunt nulla autem quasi neque velit quo illum natus fugiat pariatur deleniti aspernatur et ea aperiam suscipit. Illo sapiente voluptas quisquam? Sapiente mollitia eius dicta, quae veniam architecto sit, cumque temporibus iste quia vitae rem laudantium laboriosam.
+        </p>
+    </div>
+    <div>
+        <img id="left" src="../assingmnets/R.jpg" alt="surfer dude">
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, cumque.
+        </p>
+    </div>
+    
+</body>
+</html>

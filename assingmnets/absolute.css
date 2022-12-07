@@ -1,0 +1,25 @@
+html{
+    border: 2px dashed navy;
+}
+body{
+    width: 40%;
+    border: 2px solid olivedrab;
+}
+div{
+    border: 2px solid crimson;
+    color: #fff;
+}
+#rel{
+    position: relative;
+    width: 600px;
+    height: 400px;
+    background-color: #bcbbbb;
+}
+#abs{
+    position: absolute;
+    top: 120px;
+    right: 20px;
+    width: 300px;
+    height: 200px;
+    background-color: cadetblue;
+}

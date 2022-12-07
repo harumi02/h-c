@@ -1,0 +1,18 @@
+ul{
+    list-style: none;
+    background: deepskyblue;
+}
+a{
+    text-decoration: none;
+    padding: 20px 0;
+    color: white;
+    text-align: center;
+    border-top: 1px solid rgba(red, green, blue, alpha);
+    border-bottom: 1px solid rgba(red, green, blue, alpha);
+}
+a:hover{
+    background: royalblue;
+}
+a:last-child{
+    border-bottom: none;
+}
