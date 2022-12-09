@@ -1,0 +1,21 @@
+div{
+    color: seagreen;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 100%;
+}
+.anima{
+    width: 1em;
+    height: 1em;
+}
+body{
+    animation-name: myanima;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease;
+}
+@keyframes myanima{
+    0%{color: seagreen;}
+    100%{color: darkred;}
+}

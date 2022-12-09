@@ -1,0 +1,17 @@
+body{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: seagreen;
+    border-radius: 100%;
+}
+div:hover{
+    color: darkred;
+    background-color: chocolate;
+}
+.change{
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease;
+}

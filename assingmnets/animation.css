@@ -1,0 +1,26 @@
+body{
+    animation-name: myanima;
+}
+div{
+    color: seagreen;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 100%;
+}
+.anima{
+    width: 1em;
+    height: 1em;
+    position: relative;
+    left: 0;
+    animation-name: move;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-play-state: running;
+}
+@keyframes move{
+    0%{left: 0;}
+    100%{left: 66%;}
+}
